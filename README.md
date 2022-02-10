@@ -10,4 +10,4 @@ To setup the bank stealer
 2. Enable or disable Discord Webhooks in the "webhook" variable.
 3. If you enabled the webhooks, put your Discord Webhook in the link variable. If you are dumb as fuck, [here is a tutorial of how to create a Discord Webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
 <br>
-**You are now done, you can steal banks**
+***You are now done, you can steal banks***
