@@ -1,2 +1,2 @@
 # Robber
-Take Pet Simulator X banks from a simple script 
+A open-source Pet Simulator X bank stealer
