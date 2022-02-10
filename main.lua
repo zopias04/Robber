@@ -17,7 +17,7 @@ end)
 local Invite = {
     [1] = {
         [1] = bankId,
-        [2] = 1
+        [2] = id
     }
 }
 
