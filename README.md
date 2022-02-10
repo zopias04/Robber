@@ -6,8 +6,9 @@ A open-source Pet Simulator X bank stealer, automatically grabs the bank and inv
 You can also use a webhook to send requests when you get a victim!
 # Setup
 To setup the bank stealer
-1. First, put your roblox ID in the ID variable If you are dumb as fuck, [here is a tutorial of how to grab your Roblox ID](https://www.youtube.com/watch?v=azanFiE7ZpE)
-2. Enable or disable Discord Webhooks in the "webhook" variable.
-3. If you enabled the webhooks, put your Discord Webhook in the link variable. If you are dumb as fuck, [here is a tutorial of how to create a Discord Webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
+- First, put your roblox ID in the ID variable If you are dumb as fuck, [here is a tutorial of how to grab your Roblox ID](https://www.youtube.com/watch?v=azanFiE7ZpE)
+- Secondly, enable or disable Discord Webhooks in the "webhook" variable.
+- Finally, If you enabled the webhooks, put your Discord Webhook in the link variable. If you are dumb as fuck, [here is a tutorial of how to create a Discord Webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
+
 <br>
-> After setting it up, you can now steal banks!
+> Now, you learned how to configure the bank stealer
