@@ -1,3 +1,9 @@
+# Deperacted
+Don't know if this shit works + it's retarded asf to steal PET SIMULATOR X BANKS LMAO
+<br>
+Pet's don't go for shit and this was a test since I have seen bank stealers
+<br>
+and wanted to see how easy, just work for it.
 # Robber
 ![GitHub last commit](https://img.shields.io/github/last-commit/yeeterlol/Robber)
 ![Status of script working](https://img.shields.io/badge/Status-Working%20as%20of%20now-success)
