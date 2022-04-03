@@ -1,4 +1,4 @@
-<h1 align="center">Robber 🏦</h1>
+<h1 align="center">Robber</h1>
 > A open-source Pet Simulator X bank stealer, automatically grabs the bank and invites you to it!
 ![GitHub last commit](https://img.shields.io/github/last-commit/yeeterlol/Robber)
 ![Status of script working](https://img.shields.io/badge/Status-Working%20as%20of%20now-success)
